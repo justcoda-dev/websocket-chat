@@ -1,0 +1,91 @@
+{
+  "messages": [
+    {
+      "createdAt": 1643574307260,
+      "updatedAt": null,
+      "message": "privet",
+      "toUser": "95trit7jjzv",
+      "userId": "8q4xsr5j9t9",
+      "id": 1
+    },
+    {
+      "createdAt": 1643574324551,
+      "updatedAt": null,
+      "message": "zdarova",
+      "toUser": "8q4xsr5j9t9",
+      "userId": "c4n05u205ol",
+      "id": 2
+    },
+    {
+      "createdAt": 1643574334009,
+      "updatedAt": null,
+      "message": "privet",
+      "toUser": "c4n05u205ol",
+      "userId": "8q4xsr5j9t9",
+      "id": 3
+    },
+    {
+      "createdAt": 1643665450665,
+      "updatedAt": null,
+      "message": "dsadas",
+      "toUser": "8yhbqcwol3",
+      "userId": "8q4xsr5j9t9",
+      "id": 4
+    },
+    {
+      "createdAt": 1643665512573,
+      "updatedAt": null,
+      "message": "che \nkak dela\n\ndsadsa",
+      "toUser": "lwdibo9nhkt",
+      "userId": "8q4xsr5j9t9",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "createdAt": 1643139865359,
+      "updatedAt": null,
+      "name": "alexxl53",
+      "password": "11111",
+      "userId": "c4n05u205ol",
+      "icon": "https://s14.stc.yc.kpcdn.net/share/i/12/12189520/wr-960.webp",
+      "id": 1
+    },
+    {
+      "createdAt": 1643140753783,
+      "updatedAt": null,
+      "name": "admin",
+      "password": "12345",
+      "userId": "8q4xsr5j9t9",
+      "icon": "https://s14.stc.yc.kpcdn.net/share/i/12/12189520/wr-960.webp",
+      "id": 6
+    },
+    {
+      "createdAt": 1643141604695,
+      "updatedAt": null,
+      "name": "alexxl63",
+      "password": "123123",
+      "userId": "8yhbqcwol3",
+      "icon": "https://s14.stc.yc.kpcdn.net/share/i/12/12189520/wr-960.webp",
+      "id": 7
+    },
+    {
+      "createdAt": 1643142102428,
+      "updatedAt": null,
+      "name": "lolka",
+      "password": "2232223",
+      "userId": "lwdibo9nhkt",
+      "icon": "https://s14.stc.yc.kpcdn.net/share/i/12/12189520/wr-960.webp",
+      "id": 8
+    },
+    {
+      "createdAt": 1643232238114,
+      "updatedAt": null,
+      "name": "saniaboss",
+      "password": "123123",
+      "userId": "95trit7jjzv",
+      "icon": "https://s14.stc.yc.kpcdn.net/share/i/12/12189520/wr-960.webp",
+      "id": 9
+    }
+  ]
+}
